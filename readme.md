@@ -5,6 +5,7 @@
 - Chisel
 - Xtones
 - Applied Energistics 2
+- Avaritia
 
 #### Texture updates applied to:
 - Applied Energistics 2 : Will now use the modern, white looking textures from newer versions.
@@ -17,7 +18,6 @@
 
 #### Will support:
 - Gregtech Community Edition Unofficial (with [ZedTech](https://github.com/CosmicNovaStar/Zederrian-Technology-GTCEu) installed).
-- Avaritia
 - Deep Mob Learning/Evolution
 - Ender IO
 - Vanilla

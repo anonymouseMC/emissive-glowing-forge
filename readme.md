@@ -13,11 +13,12 @@
 - Factorio Sound Pack
 
 #### Will support:
-- Gregtech Community Edition Unofficial (with ZedTech installed).
+- Gregtech Community Edition Unofficial (with [ZedTech](https://github.com/CosmicNovaStar/Zederrian-Technology-GTCEu) installed).
 - Avaritia
 - Deep Mob Learning/Evolution
 - Ender IO
 - Vanilla
+- Modified fork of BSL with a not-clamped dynamic range, and an expanded bloom strength
 
 Need help? Want to share cool screenshots? Join the [Discord](https://discord.gg/8aZ4TpdPWZ).
 

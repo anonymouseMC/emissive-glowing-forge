@@ -18,7 +18,7 @@
 - Factorio Sound Pack
 
 #### Will support:
-- Gregtech Community Edition Unofficial (with [ZedTech](https://github.com/CosmicNovaStar/Zederrian-Technology-GTCEu) installed). (Thanks for the script goes to [Aproxia](https://modrinth.com/resourcepack/egregious-emissives)
+- Gregtech Community Edition Unofficial (with [ZedTech](https://github.com/CosmicNovaStar/Zederrian-Technology-GTCEu) installed). (Thanks for the script goes to [Aproxia](https://modrinth.com/resourcepack/egregious-emissives))
 - Ender IO
 - Vanilla
 - Modified fork of BSL with a not-clamped dynamic range, and an expanded bloom strength

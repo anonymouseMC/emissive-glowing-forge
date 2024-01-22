@@ -1,0 +1,6 @@
+{
+  "pack": {
+    "pack_format": 3,
+    "description": "Supports GTCEU, optifine & labPBR-enabled GLSL shaders"
+  }
+}

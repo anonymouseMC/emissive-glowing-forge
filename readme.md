@@ -21,8 +21,10 @@ Will support:
 
 Need help? Want to share cool screenshots? Join the [Discord](https://discord.gg/8aZ4TpdPWZ).
 
-___Note___
+___Notes about compatability___
 **censoredASM `onDemandAnimatedTextures=true` makes textures only animate when observed, but doesnt apply to gtceu's glowing texture layer, causing textures to "desync", where the glowing layer doesnt follow the texture layer. Edit `.minecraft/config/loliasm.cfg` and change its value to `false.`**
+
+**LittleTiles requires mipmapping to be enabled in any form if optifine is installed. PBR Mapping and mipmaps do not go well together. Resource Packer will eventually generate proper mipmaps that dont look like garbage, but this will make stuff look weird at a distance. This effect is most visible on the ME Controller**
 
 \* This pack will probably work on 1.13+ for some mods, if you rename all folders named blocks/particles/items to block/particle/item. 
 

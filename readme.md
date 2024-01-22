@@ -1,4 +1,6 @@
-### Emissive textures for a variety of common forge mods.
+<h3 align="center"><img alt="logo" height="500px" src="https://raw.githubusercontent.com/anonymouseMC/emissive-glowing-forge/master/pack.png"/></h3>
+<h3 align="center">Emissive textures for a variety of common forge mods.</h3>
+
 #### Emissive support added to:
 - Chisel
 - Xtones

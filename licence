@@ -1,0 +1,11 @@
+As long as you retain this notice and the file that contains it you can do whatever you want with this stuff.
+Permission to use, copy, modify, and/or distribute this software for any purpose with or without fee is hereby granted.
+
+Some textures from mods/texturepacks under restrictive licences are selectively included in this resource pack to ensure overlay conflicts & weird stuff doesnt happen. If you have an issue with this, contact me in the aforementioned discord server.
+
+Full list of external, redistributed textures, and other licence stuff.
+- LGPL3 [New AE2 textures](https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/4610/files) have been backported and modified slightly.
+- GPL2  Chisel Diamond, Futura blocks, and antiblocks.
+- MIT   Xtones Bitt & Zeta.
+- none  DeepMobEvolution Machine Textures.
+- MIT   Avaritia Sword, Infinity stuff, Tiny Neutron Pile.

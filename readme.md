@@ -36,5 +36,3 @@ Need help? Want to share cool screenshots? Join the [Discord](https://discord.gg
 
 5. \* This pack will probably work on 1.13+ for some mods, if you rename all folders named blocks/particles/items to block/particle/item. 
 
-Notice for mod authors:
-	Some textures from mods/texturepacks are selectively included in this resource pack to ensure overlay conflicts & weird stuff doesnt happen. If you have an issue with this, contact me in the aforementioned discord server.

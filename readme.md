@@ -6,6 +6,7 @@
 - Xtones
 - Applied Energistics 2
 - Avaritia
+- Deep Mob Learning/Evolution
 
 #### Texture updates applied to:
 - Applied Energistics 2 : Will now use the modern, white looking textures from newer versions.
@@ -18,7 +19,6 @@
 
 #### Will support:
 - Gregtech Community Edition Unofficial (with [ZedTech](https://github.com/CosmicNovaStar/Zederrian-Technology-GTCEu) installed).
-- Deep Mob Learning/Evolution
 - Ender IO
 - Vanilla
 - Modified fork of BSL with a not-clamped dynamic range, and an expanded bloom strength

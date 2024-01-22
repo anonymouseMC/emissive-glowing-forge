@@ -26,7 +26,7 @@
 Need help? Want to share cool screenshots? Join the [Discord](https://discord.gg/8aZ4TpdPWZ).
 
 ### Notes about compatability
-1. This pack explicitly supports Optifine on 1.12.2, and 1.7.10 without interpolation (not the end of the world). This pack will not work on anything 1.13+.
+1. This pack explicitly supports Optifine on 1.12.2, and 1.7.10 without interpolation (not the end of the world). This pack will not support anything 1.13+.
 
 2. You should set `Old Lighting: ON` in the optifine shading menu, so blocks with custom renderer's (like architecturycraft) correctly display texture colours.
 

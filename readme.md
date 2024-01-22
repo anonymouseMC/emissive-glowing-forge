@@ -7,7 +7,8 @@
 - Applied Energistics 2
 
 #### Texture updates applied to:
-- Applied Energistics 2 : Will now use the more modern, white looking textures from newer versions
+- Applied Energistics 2 : Will now use the modern, white looking textures from newer versions.
+- Applied Energestics 2 : Updated drive lights to match the emission wavelengths of Red, Orange, and Green LED's (750nm, 630nm, 555nm).
 
 #### Addon packs:
 - Borderless Antiblock

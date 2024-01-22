@@ -4,10 +4,10 @@
 #### Emissive support added to:
 - Chisel
 - Xtones
-- Applied Energestics 2
+- Applied Energistics 2
 
 #### Texture updates applied to:
-- Applied Energestics 2 : Will now use the more modern, white looking textures from newer versions
+- Applied Energistics 2 : Will now use the more modern, white looking textures from newer versions
 
 #### Addon packs:
 - Borderless Antiblock

@@ -2,6 +2,7 @@
 <h3 align="center">Emissive textures for a variety of common forge mods.</h3>
 
 #### Emissive support added to:
+- Gregtech Community Edition Unofficial (with [ZedTech](https://github.com/CosmicNovaStar/Zederrian-Technology-GTCEu) installed). (Thanks for the script goes to [Aproxia](https://modrinth.com/resourcepack/egregious-emissives))
 - Chisel
 - Xtones
 - Applied Energistics 2
@@ -11,17 +12,15 @@
 #### Texture updates applied to:
 - Applied Energistics 2 : Will now use the modern, white looking textures from newer versions.
 - Applied Energestics 2 : Updated drive lights to match the emission wavelengths of Red, Orange, and Green LED's (750nm, 630nm, 555nm).
+- GTCE-U : Orange & Yellow lamps have had their colours changed to represent the spectra emitted by LPS and HPS lamps.
 
 #### Addon packs:
 - Borderless Antiblock
-- Functionally Less Glow
 - Factorio Sound Pack
 
 #### Will support:
-- Gregtech Community Edition Unofficial (with [ZedTech](https://github.com/CosmicNovaStar/Zederrian-Technology-GTCEu) installed). (Thanks for the script goes to [Aproxia](https://modrinth.com/resourcepack/egregious-emissives))
 - Ender IO
 - Vanilla
-- Modified fork of BSL with a not-clamped dynamic range, and an expanded bloom strength
 
 Need help? Want to share cool screenshots? Join the [Discord](https://discord.gg/8aZ4TpdPWZ).
 

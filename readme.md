@@ -2,6 +2,14 @@
 <h3 align="center">Emissive textures for a variety of common forge mods.</h3>
 <h4 align="center"><a href="https://codeload.github.com/anonymouseMC/emissive-glowing-forge/zip/refs/heads/master">Download</a></h4>
 
+<details>
+  <summary>Examples</summary>
+
+  <img height="500px" src="https://raw.githubusercontent.com/anonymouseMC/emissive-glowing-forge/master/examples/gtceu_lamps.png" />
+  <img height="500px" src="https://raw.githubusercontent.com/anonymouseMC/emissive-glowing-forge/master/examples/ae2_drive_lights.png" />
+
+</details>
+
 #### Emissive support added to:
 - Gregtech Community Edition Unofficial (with [ZedTech](https://github.com/CosmicNovaStar/Zederrian-Technology-GTCEu) installed). (Thanks for the script goes to [Aproxia](https://modrinth.com/resourcepack/egregious-emissives))
 - Chisel

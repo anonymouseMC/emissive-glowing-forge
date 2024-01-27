@@ -24,8 +24,8 @@
 - GTCE-U : Orange & Yellow lamps have had their colours changed to represent the spectra emitted by LPS and HPS lamps.
 
 #### Addon packs:
-- Borderless Antiblock
-- Factorio Sound Pack
+- <a href="https://github.com/anonymouseMC/borderless-antiblock">Borderless Antiblock</a>
+- <a href="https://github.com/anonymouseMC/factorio-sound-pack">Factorio Sound Pack</a>
 
 #### Will support:
 - Ender IO
